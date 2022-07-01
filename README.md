@@ -1,2 +1,4 @@
-# LEAD
-HPHC LEAD Seminar Notes
+## HPHC LEAD seminar notesets 
+Introduction to R (IntroR.pdf)
+
+Introduction to Longitudinal Data Analysis (LEAD_LMM.pdf)

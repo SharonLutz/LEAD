@@ -5,4 +5,4 @@ Introduction to Fundamental Statistics in R (IntroStatsR.pdf)
 
 Introduction to Longitudinal Data Analysis (LMM.pdf)
 
-Introduction to Data Visualization in R ()
+Introduction to Data Visualization in R (IntroGGplot.pdf)

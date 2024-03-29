@@ -1,5 +1,5 @@
 ## HPHC LEAD seminar notesets 
-Introduction to R (IntroR.pdf)
+Introduction to R (IntroR.pdf from 2022 and IntroR_29Mar2024.pdf from 2024)
 
 Introduction to Fundamental Statistics in R (IntroStatsR.pdf)
 
